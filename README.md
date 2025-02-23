@@ -1,7 +1,13 @@
 #  Aplicativo Acadêmico - FATEC Sorocaba
-
+--
 ###  Um projeto desenvolvido por alunos da FATEC Sorocaba para facilitar o acesso a informações acadêmicas, comunicação e organização dentro da instituição.
 
+## 📖 Sobre o Projeto
+
+O **Aplicativo Acadêmico da FATEC Sorocaba** é uma plataforma web e mobile desenvolvida para facilitar a vida dos estudantes, professores e administrativos, centralizando serviços essenciais em um único ambiente.
+--
+Resumo: Aplicativo Acadêmico - FATEC Sorocaba.
+O Aplicativo FATEC Sorocaba centraliza a gestão acadêmica, oferecendo funcionalidades essenciais: acesso a notas e horários (via SIGA), chatbot para dúvidas frequentes, notificações push e painel administrativo para comunicação institucional. Professores lançam notas e disponibilizam materiais; alunos acessam estágios, cardápio da cantina e monitoria. A versão inicial prioriza integração com sistemas existentes (SIGA) e responsividade. Futuras atualizações incluirão monitoria avançada, parcerias com empresas para estágios e personalização de comunicados. O MVP será validado pela comunidade acadêmica antes de expandir para funcionalidades como análise preditiva de desempenho e integração com plataformas externas
 ---
 
 ##  Tecnologias Utilizadas
@@ -18,10 +24,6 @@
 ![Chatbot (Rasa)](https://img.shields.io/badge/Chatbot-Rasa-5C2D91?style=for-the-badge)
 
 ---
-
-## 📖 Sobre o Projeto
-
-O **Aplicativo Acadêmico da FATEC Sorocaba** é uma plataforma web e mobile desenvolvida para facilitar a vida dos estudantes, professores e administrativos, centralizando serviços essenciais em um único ambiente.
 
 ###  Objetivos do Projeto
 - Fornecer acesso fácil às notas, horários de aula e comunicados acadêmicos.
