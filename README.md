@@ -157,7 +157,8 @@ rasa shell
 
 ---
 ##  Diagramas: 
-Caso de uso:
+  Caso de uso:
+
 ![image](https://github.com/user-attachments/assets/0217b599-b86c-499f-89df-2e01139d5f06)
 
 ![image](https://github.com/user-attachments/assets/35f02134-da5e-450c-90e1-383ff70ab203)
