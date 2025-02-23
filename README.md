@@ -156,8 +156,14 @@ rasa shell
 ```
 
 ---
-##  Diagrmas: 
+##  Diagramas: 
 Caso de uso:
+![image](https://github.com/user-attachments/assets/0217b599-b86c-499f-89df-2e01139d5f06)
+
+![image](https://github.com/user-attachments/assets/35f02134-da5e-450c-90e1-383ff70ab203)
+
+![image](https://github.com/user-attachments/assets/790c49ad-384b-429b-b1a3-29c8b56ccacd)
+
 
 ## 📜 Licença
 
