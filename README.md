@@ -63,7 +63,7 @@ Para estudantes da FATEC Sorocaba
 
 ---
 
-##  Perfil: Professor* 
+##  Perfil: Professor
 Para docentes e coordenadores  
  Funcionalidades: 
 - Lançar notas e registrar frequência das turmas.  
@@ -74,7 +74,7 @@ Para docentes e coordenadores
 
 ---
 
-##  Perfil: Administrador* 
+##  Perfil: Administrador
 Para equipe técnica e gestão da FATEC  
  Funcionalidades:
 - Gerenciar usuários (ativar/desativar contas, redefinir senhas).  
