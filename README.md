@@ -156,6 +156,8 @@ rasa shell
 ```
 
 ---
+##  Diagrmas: 
+Caso de uso:
 
 ## 📜 Licença
 
