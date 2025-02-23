@@ -1,10 +1,10 @@
-# 📌 Aplicativo Acadêmico - FATEC Sorocaba
+#  Aplicativo Acadêmico - FATEC Sorocaba
 
-### 📚 Um projeto desenvolvido por alunos da FATEC Sorocaba para facilitar o acesso a informações acadêmicas, comunicação e organização dentro da instituição.
+###  Um projeto desenvolvido por alunos da FATEC Sorocaba para facilitar o acesso a informações acadêmicas, comunicação e organização dentro da instituição.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -23,7 +23,7 @@
 
 O **Aplicativo Acadêmico da FATEC Sorocaba** é uma plataforma web e mobile desenvolvida para facilitar a vida dos estudantes, professores e administrativos, centralizando serviços essenciais em um único ambiente.
 
-### 🎯 Objetivos do Projeto
+###  Objetivos do Projeto
 - Fornecer acesso fácil às notas, horários de aula e comunicados acadêmicos.
 - Criar um chatbot inteligente para responder dúvidas frequentes.
 - Permitir que professores gerenciem turmas, lancem notas e disponibilizem materiais.
@@ -35,7 +35,7 @@ O **Aplicativo Acadêmico da FATEC Sorocaba** é uma plataforma web e mobile des
 
 ---
 
-## 📌 Funcionalidades Principais
+##  Funcionalidades Principais
 
 - Consulta de notas e frequência (Integração com SIGA/FATEC)
 - Horário de aulas e agenda acadêmica
@@ -50,9 +50,9 @@ O **Aplicativo Acadêmico da FATEC Sorocaba** é uma plataforma web e mobile des
 - Gestão de vagas de estágio, organizadas por professores
 - Três tipos de perfil: Aluno, Professor e Administrador
 ---
-## 🧑🎓 *Perfil: Aluno*  
+##  Perfil: Aluno 
 Para estudantes da FATEC Sorocaba  
-✅ *Funcionalidades:*  
+ Funcionalidades: 
 - Visualizar notas, frequência e histórico acadêmico (integração com SIGA).  
 - Acessar horários de aula atualizados e calendário de provas.  
 - Baixar materiais de estudo.  
@@ -63,9 +63,9 @@ Para estudantes da FATEC Sorocaba
 
 ---
 
-## 👨🏫 *Perfil: Professor*  
+##  Perfil: Professor* 
 Para docentes e coordenadores  
-✅ *Funcionalidades:*  
+ Funcionalidades: 
 - Lançar notas e registrar frequência das turmas.  
 - Disponibilizar materiais de aula.  
 - Gerenciar avisos e tarefas para cada disciplina.  
@@ -74,16 +74,16 @@ Para docentes e coordenadores
 
 ---
 
-## 🛠 *Perfil: Administrador*  
+##  Perfil: Administrador* 
 Para equipe técnica e gestão da FATEC  
-✅ *Funcionalidades:*  
+ Funcionalidades:
 - Gerenciar usuários (ativar/desativar contas, redefinir senhas).  
 - Publicar eventos acadêmicos, editais e comunicados oficiais.  
 - Configurar integração com sistemas internos (SIGA, servidores). 
 - Moderar conteúdo publicado no mural do aplicativo.  
 - Gerenciar permissões de acesso para professores
 
-## 🛠️ Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 📂 fatec-academico-app
@@ -97,7 +97,7 @@ Para equipe técnica e gestão da FATEC
 
 ---
 
-## 🎯 Como Contribuir
+##  Como Contribuir
 
 1. **Faça um fork** deste repositório.
 2. **Crie uma branch** com sua feature: `git checkout -b minha-feature`
@@ -107,7 +107,7 @@ Para equipe técnica e gestão da FATEC
 
 ---
 
-## 📥 Como Executar o Projeto
+##  Como Executar o Projeto
 
 ### 1️⃣ Configuração do Backend (API em Python)
 ```bash
