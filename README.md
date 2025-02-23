@@ -4,7 +4,7 @@
 
 ## 📖 Sobre o Projeto
 
-O **Aplicativo Acadêmico da FATEC Sorocaba** é uma plataforma web e mobile desenvolvida para facilitar a vida dos estudantes, professores e administrativos, centralizando serviços essenciais em um único ambiente.
+O Aplicativo Acadêmico da FATEC Sorocaba** é uma plataforma web e mobile desenvolvida para facilitar a vida dos estudantes, professores e administrativos, centralizando serviços essenciais em um único ambiente.
 --
 ## Resumo: Aplicativo Acadêmico - FATEC Sorocaba.
 
