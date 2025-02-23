@@ -24,14 +24,14 @@
 O **Aplicativo Acadêmico da FATEC Sorocaba** é uma plataforma web e mobile desenvolvida para facilitar a vida dos estudantes, professores e administrativos, centralizando serviços essenciais em um único ambiente.
 
 ### 🎯 Objetivos do Projeto
-Fornecer acesso fácil às notas, horários de aula e comunicados acadêmicos.
-Criar um chatbot inteligente para responder dúvidas frequentes.
-Permitir que professores gerenciem turmas, lancem notas e disponibilizem materiais.
-Oferecer um painel administrativo para comunicação eficiente entre a instituição e os alunos.
-Disponibilizar um sistema de monitoria para alunos, organizando datas, matérias e monitores.
-Criar um espaço para a cantina, com acesso ao cardápio e valores.
-Implementar três tipos de perfil: Aluno, Professor e Administrador, com permissões específicas.
-Desenvolver um sistema organizado de vagas de estágio, permitindo que professores publiquem oportunidades de forma estruturada.
+- Fornecer acesso fácil às notas, horários de aula e comunicados acadêmicos.
+- Criar um chatbot inteligente para responder dúvidas frequentes.
+- Permitir que professores gerenciem turmas, lancem notas e disponibilizem materiais.
+- Oferecer um painel administrativo para comunicação eficiente entre a instituição e os alunos.
+- Disponibilizar um sistema de monitoria para alunos, organizando datas, matérias e monitores.
+- Criar um espaço para a cantina, com acesso ao cardápio e valores.
+- Implementar três tipos de perfil: Aluno, Professor e Administrador, com permissões específicas.
+- Desenvolver um sistema organizado de vagas de estágio, permitindo que professores publiquem oportunidades de forma estruturada.
 
 ---
 
