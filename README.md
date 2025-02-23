@@ -155,6 +155,10 @@ rasa train
 rasa shell
 ```
 
+Casos de uso 
+![image](https://github.com/user-attachments/assets/f6bb517b-34e4-4947-9351-0c796b242ddd)
+
+
 ---
 
 ## 📜 Licença
