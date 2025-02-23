@@ -1,5 +1,5 @@
 #  Aplicativo Acadêmico - FATEC Sorocaba
---
+
 ###  Um projeto desenvolvido por alunos da FATEC Sorocaba para facilitar o acesso a informações acadêmicas, comunicação e organização dentro da instituição.
 
 ## 📖 Sobre o Projeto
