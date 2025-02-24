@@ -102,7 +102,7 @@ Para equipe técnica e gestão da FATEC
 
 ##  Como Executar o Projeto
 
-### 1️⃣ Configuração do Backend (API em Python)
+###  Configuração do Backend (API em Python)
 ```bash
 # Clone o repositório
 git clone https://github.com/seu-usuario/fatec-academico-app.git
@@ -120,7 +120,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### 2️⃣ Configuração do Frontend (Web App)
+###  Configuração do Frontend (Web App)
 ```bash
 cd fatec-academico-app/frontend
 
@@ -131,7 +131,7 @@ npm install
 npm start
 ```
 
-### 3️⃣ Configuração do Chatbot
+###  Configuração do Chatbot
 ```bash
 cd fatec-academico-app/chatbot
 
