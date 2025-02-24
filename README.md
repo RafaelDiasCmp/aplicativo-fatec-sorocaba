@@ -100,16 +100,6 @@ Para equipe técnica e gestão da FATEC
 
 ---
 
-##  Como Contribuir
-
-1. **Faça um fork** deste repositório.
-2. **Crie uma branch** com sua feature: `git checkout -b minha-feature`
-3. **Commit suas alterações**: `git commit -m 'Adicionando nova funcionalidade'`
-4. **Faça um push** para a branch: `git push origin minha-feature`
-5. **Abra um Pull Request**
-
----
-
 ##  Como Executar o Projeto
 
 ### 1️⃣ Configuração do Backend (API em Python)
