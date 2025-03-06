@@ -84,7 +84,5 @@ Caso tenha dúvidas ou sugestões, entre em contato pelo GitHub!
 
 ---
 
-**Desenvolvido por:** Comunidade acadêmica da Fatec Sorocaba 🚀
-
-cade os icones das tecnologias no começo? está em lingaugem markdown para o github?
+**Desenvolvido por:** @Drkaesp @NicolasGimenezAlcalde @RafaelDiasCmp 🚀
 
