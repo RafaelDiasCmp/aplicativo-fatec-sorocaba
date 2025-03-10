@@ -14,7 +14,15 @@
 
 ## 📌 Sobre o Projeto
 
-O **Aplicativo Fatec Sorocaba** é uma solução acadêmica desenvolvida para facilitar a comunicação e a gestão acadêmica entre alunos, professores e a administração da instituição. O projeto foi desenvolvido na disciplina de **Engenharia de Software II**, ministrada pelo professor **Glauco Todesco**.
+📌 Sobre o Projeto
+
+O Aplicativo Fatec Sorocaba é uma solução digital desenvolvida para aprimorar a experiência acadêmica de alunos e professores da Fatec Sorocaba, proporcionando um ambiente unificado para gestão educacional e comunicação institucional. O projeto foi concebido dentro da disciplina de **Engenharia de Software II**, sob a orientação do professor **Glauco Todesco**.
+
+A plataforma visa centralizar diversas funcionalidades essenciais para a rotina acadêmica, facilitando o acesso às informações institucionais e otimizando processos administrativos. Com um sistema de login diferenciado para alunos, professores e administradores, cada usuário tem acesso a recursos específicos de acordo com seu perfil, garantindo uma experiência personalizada e segura.
+
+Além das funcionalidades básicas de consulta de horários por exemplo, o aplicativo se destaca pelo uso de um chatbot inteligente, que responde dúvidas frequentes sobre a instituição, além de um painel administrativo robusto que permite a publicação de comunicados e eventos. O aplicativo também conta com um sistema de monitoria para auxiliar no aprendizado e na organização dos alunos com as monitorias já disponíveis e um módulo de gestão de vagas de estágio para conectar alunos ao mercado de trabalho.
+
+O projeto foi desenvolvido com foco na usabilidade e acessibilidade, garantindo compatibilidade tanto para dispositivos móveis quanto para desktops. A integração com sistemas acadêmicos, como o SIGA/FATEC, permite que os dados sejam atualizados, garantindo confiabilidade e eficiência no uso do sistema.
 
 ## 🚀 Funcionalidades Principais
 
