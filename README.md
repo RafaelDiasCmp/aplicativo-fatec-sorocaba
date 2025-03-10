@@ -14,7 +14,7 @@
 
 ## 📌 Sobre o Projeto
 
-O **Aplicativo Fatec Sorocaba** é uma solução acadêmica desenvolvida para facilitar a comunicação e a gestão acadêmica entre alunos, professores e a administração da instituição. O projeto foi desenvolvido na disciplina de **Engenharia de Software 2**, ministrada pelo professor **Glauco Todesco**.
+O **Aplicativo Fatec Sorocaba** é uma solução acadêmica desenvolvida para facilitar a comunicação e a gestão acadêmica entre alunos, professores e a administração da instituição. O projeto foi desenvolvido na disciplina de **Engenharia de Software II**, ministrada pelo professor **Glauco Todesco**.
 
 ## 🚀 Funcionalidades Principais
 
@@ -34,7 +34,8 @@ O **Aplicativo Fatec Sorocaba** é uma solução acadêmica desenvolvida para fa
 - **Frontend:** HTML, CSS, Bootstrap, React, JavaScript
 - **Backend:** Python, Django
 - **Banco de Dados:** MySQL
-- **Outras Tecnologias:** Chatbot AI, API SIGA/FATEC
+- **Mobile (Android/iOS):** Expo
+- **Outras Tecnologias:** Chatbot AI
 
 ---
 
