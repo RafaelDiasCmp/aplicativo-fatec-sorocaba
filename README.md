@@ -30,17 +30,12 @@ O **Aplicativo Fatec Sorocaba** é uma solução acadêmica desenvolvida para fa
 
 ## 🏗 Tecnologias Utilizadas
 
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript
+- **Frontend:** HTML, CSS, Bootstrap, React, JavaScript
 - **Backend:** Python, Django
 - **Banco de Dados:** MySQL
 - **Outras Tecnologias:** Chatbot AI, API SIGA/FATEC
 
-
-## 📬 Contato
-
-Caso tenha dúvidas ou sugestões, entre em contato pelo GitHub!
-
 ---
 
-**Desenvolvido por:** @Drkaesp @NicolasGimenezAlcalde @RafaelDiasCmp 🚀
+**Desenvolvido por: Drkaesp, NicolasGimenezAlcalde, RafaelDiasCmp** 🚀
 
