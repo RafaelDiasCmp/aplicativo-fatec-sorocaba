@@ -35,46 +35,6 @@ O **Aplicativo Fatec Sorocaba** é uma solução acadêmica desenvolvida para fa
 - **Banco de Dados:** MySQL
 - **Outras Tecnologias:** Chatbot AI, API SIGA/FATEC
 
-## 📦 Instalação e Execução
-
-1. **Clone o repositório**
-   ```bash
-   git clone https://github.com/RafaelDiasCmp/aplicativo-fatec-sorocaba.git
-   cd aplicativo-fatec-sorocaba
-   ```
-2. **Crie um ambiente virtual e ative-o**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # No Windows: venv\Scripts\activate
-   ```
-3. **Instale as dependências**
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. **Configure as migrações do banco de dados**
-   ```bash
-   python manage.py migrate
-   ```
-5. **Execute o servidor**
-   ```bash
-   python manage.py runserver
-   ```
-6. **Acesse no navegador:**\
-   [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
-
-## 📜 Licença
-
-Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo `LICENSE`.
-
-## 🤝 Contribuições
-
-Sinta-se à vontade para contribuir! Para isso:
-
-1. Faça um **fork** do projeto
-2. Crie uma **branch** com a funcionalidade (`git checkout -b feature-nova-funcionalidade`)
-3. Faça um **commit** (`git commit -m 'Adiciona nova funcionalidade'`)
-4. Envie as alterações para o repositório (`git push origin feature-nova-funcionalidade`)
-5. Abra um **Pull Request**
 
 ## 📬 Contato
 
