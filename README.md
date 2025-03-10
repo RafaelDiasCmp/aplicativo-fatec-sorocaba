@@ -7,6 +7,7 @@
 <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png width=80 img/>
 <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png width=80 img/>
 <img src=	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png width=80 img/>
+<img src= https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png width=80 img/>
 <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png width=80 img/>
 </div>
 
