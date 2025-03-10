@@ -39,5 +39,8 @@ O **Aplicativo Fatec Sorocaba** é uma solução acadêmica desenvolvida para fa
 
 ---
 
-**Desenvolvido por: Drkaesp, NicolasGimenezAlcalde, RafaelDiasCmp** 🚀
+**Desenvolvido por:**
+- Drkaesp | Miguel Scomparim
+- NicolasGimenezAlcalde | Nicolas Gimenez
+- RafaelDiasCmp | Rafael Dias
 
