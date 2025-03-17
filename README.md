@@ -54,7 +54,7 @@ Google Docs: https://docs.google.com/document/d/1bkVY3gUcs-X3bFMOxpV4GtzXw5YthZi
 ---
 
 **Desenvolvido por:**
-- Drkaesp | Miguel Scomparim
+- Drkaesp | Miguel Scomparin
 - NicolasGimenezAlcalde | Nicolas Gimenez
 - RafaelDiasCmp | Rafael Dias
 
