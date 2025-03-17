@@ -39,11 +39,14 @@ O projeto foi desenvolvido com foco na usabilidade e acessibilidade, garantindo 
 
 ## 🏗 Tecnologias Utilizadas
 
-- **Frontend:** HTML, CSS, Bootstrap, React, JavaScript
-- **Backend:** Python, Django
-- **Banco de Dados:** MySQL
-- **Mobile (Android/iOS):** Expo
-- **Outras Tecnologias:** Chatbot AI
+- **Frontend:** HTML, CSS, Bootstrap, React, JavaScript.
+- **Backend:** Python, Django.
+- **Banco de Dados:** MySQL.
+- **Mobile (Android/iOS):** Expo.
+- **Outras Tecnologias:** Chatbot AI, Google Docs.
+
+## Personas do projeto
+Google Docs: https://docs.google.com/document/d/1_01-EpSqdp3gk0NmYZeFwYTBE9Kx08mUzxZCjFpy08Y/edit?tab=t.0
 
 ---
 
