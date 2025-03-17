@@ -45,8 +45,11 @@ O projeto foi desenvolvido com foco na usabilidade e acessibilidade, garantindo 
 - **Mobile (Android/iOS):** Expo.
 - **Outras Tecnologias:** Chatbot AI, Google Docs.
 
-## Personas do projeto
+## Personas do Projeto
 Google Docs: https://docs.google.com/document/d/1_01-EpSqdp3gk0NmYZeFwYTBE9Kx08mUzxZCjFpy08Y/edit?tab=t.0
+
+## Histórias de Usuário
+Google Docs: https://docs.google.com/document/d/1bkVY3gUcs-X3bFMOxpV4GtzXw5YthZisyEnzgDCEGEc/edit?tab=t.1m6hwfl8tffp
 
 ---
 
