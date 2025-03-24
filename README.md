@@ -50,7 +50,7 @@ O projeto foi desenvolvido com foco na usabilidade e acessibilidade, garantindo 
 Google Docs: <a href="https://docs.google.com/document/d/1_01-EpSqdp3gk0NmYZeFwYTBE9Kx08mUzxZCjFpy08Y/edit?tab=t.0">Personas</a>
 
 ## Histórias de Usuário
-Google Docs: <a href="https://docs.google.com/document/d/1bkVY3gUcs-X3bFMOxpV4GtzXw5YthZisyEnzgDCEGEc/edit?tab=t.1m6hwfl8tffp">User Storys</a>
+Google Docs: <a href="https://docs.google.com/document/d/1DoA_hFs1l1k52NsO2YDXHz2OvN5ucYaGdeDOLYP74Ew/edit?tab=t.0">User Storys</a>
 
 ## Monetização do Projeto
 Google Docs: <a href="https://docs.google.com/document/d/1MLYONQXhkHOfNVfM0XUEV9lFHRSZDZwSH02b0m-d8GQ/edit?tab=t.0">Monetização</a>
