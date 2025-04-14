@@ -57,6 +57,13 @@ Google Docs: <a href="https://docs.google.com/document/d/1MLYONQXhkHOfNVfM0XUEV9
 
 ---
 
+## Protótipo do Projeto:
+
+Canva: <a href="https://www.canva.com/design/DAGjTevIkFM/KqzIxAOAh1b6EJMCWWi4Eg/edit?utm_content=DAGjTevIkFM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+Protótipo</a>
+
+---
+
 **Desenvolvido por:**
 - Drkaesp | Miguel Scomparin
 - NicolasGimenezAlcalde | Nicolas Gimenez
