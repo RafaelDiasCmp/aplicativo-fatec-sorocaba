@@ -15,59 +15,72 @@
 ## 📌 Sobre o Projeto
 
 
-O Fatec APP é uma solução digital desenvolvida na disciplina de Engenharia de Software II, sob a orientação do professor Glauco Todesco, com o objetivo de promover uma comunicação integrada e dinâmica entre alunos, professores e setores da Fatec Sorocaba.
+O **Fatec APP** é uma solução digital desenvolvida na disciplina de **Engenharia de Software II**, sob a orientação do professor **Glauco Todesco**, com o objetivo de promover uma **comunicação integrada e dinâmica entre alunos, professores e setores da Fatec Sorocaba**.
 
-Inspirado em plataformas como Reddit e Discord, o aplicativo oferece um ambiente interativo, leve e colaborativo, permitindo que os usuários criem grupos, compartilhem avisos, interajam em chats temáticos, participem de debates, encontrem informações acadêmicas e acompanhem atividades da instituição em tempo real.
+Inspirado em plataformas como **Reddit** e **Discord**, o aplicativo oferece um ambiente interativo, leve e colaborativo, permitindo que os usuários **criem grupos, compartilhem avisos, interajam em chats temáticos**, participem de debates, encontrem informações acadêmicas e acompanhem atividades da instituição em tempo real.
 
-🧩 Objetivo
-Criar um espaço colaborativo e acessível que centralize a comunicação acadêmica informal da Fatec Sorocaba, facilitando a troca de informações sobre:
+---
 
-Vagas de estágio
+## 🧩 Objetivo
 
-Monitorias
+Criar um espaço **colaborativo e acessível** que centralize a comunicação acadêmica informal da Fatec Sorocaba, facilitando a troca de informações sobre:
 
-Eventos da Atlética
+- Vagas de estágio  
+- Monitorias  
+- Eventos da Atlética  
+- Avisos da cantina  
+- Avisos de aula e comunicados internos  
+- Bate-papos entre alunos por curso, semestre ou interesse  
 
-Avisos da cantina
+---
 
-Avisos de aula e comunicados internos
+## 🚀 Funcionalidades Principais
 
-Bate-papos entre alunos por curso, semestre ou interesse
+✅ **Sistema de Grupos Dinâmicos**  
+Alunos podem participar de grupos fixos (como *Estágio*, *Atlética*, *Cantina*, *Monitoria*, *Avisos*) ou **criar seus próprios grupos**, como "1º semestre ADS 2025".
 
-🚀 Funcionalidades Principais
-✅ Sistema de Grupos Dinâmicos
-Alunos podem participar de grupos fixos (como Estágio, Atlética, Cantina, Monitoria, Avisos) ou criar seus próprios grupos, como "1º semestre ADS 2025".
-
-✅ Postagens e Interação Estilo Reddit/Discord
+✅ **Postagens e Interação Estilo Reddit/Discord**  
 Criação de posts com texto, menções, hashtags, curtidas e comentários.
 
-✅ Enquetes
+✅ **Enquetes**  
 Ferramenta para criar votações rápidas e obter opiniões da comunidade.
 
-✅ Chat de Vagas de Estágio
+✅ **Chat de Vagas de Estágio**  
 Espaço dedicado à divulgação de oportunidades, com links diretos e tags como "híbrido", "presencial", "noturno", etc.
 
-✅ Seção da Cantina
+✅ **Seção da Cantina**  
 Cardápio diário atualizado, sugestões e promoções especiais.
 
-✅ Sistema de Monitorias
+✅ **Sistema de Monitorias**  
 Organização por matéria e professor, com datas, horários e links (ex: Discord).
 
-✅ Perfis Personalizados
+✅ **Perfis Personalizados**  
 Usuários com identificação de curso, turno e tipo de participação (aluno, diretor, monitor etc.).
 
-✅ Filtros Inteligentes
+✅ **Filtros Inteligentes**  
 Seleção de conteúdo por curso, semestre, turno e tema de interesse.
 
-✅ Responsividade
+✅ **Responsividade**  
 Interface adaptável a dispositivos móveis e desktops.
 
-👤 Tipos de Usuários
-Alunos e monitores: Criam e participam de grupos, comentam em postagens, votam em enquetes, consultam oportunidades de estágio, acompanham o cardápio da cantina e interagem com outros usuários.
+---
 
-Professores e Diretores: Têm acesso total à plataforma. Podem criar e compartilhar avisos oficiais, publicar mensagens em qualquer grupo (inclusive os de Avisos), divulgar oportunidades e interagir com todos os usuários.
+## 👤 Tipos de Usuários
 
-Gestor da Cantina: Responsável por atualizar o cardápio diariamente e publicar promoções. Também recebe sugestões e feedbacks dos alunos relacionados a sua área, além disso tem as mesmas funcionalidades dos alunos.
+- **🧑‍🎓 Alunos e Monitores**  
+  Criam e participam de grupos, comentam em postagens, votam em enquetes, consultam oportunidades de estágio, acompanham o cardápio da cantina e interagem com outros usuários.  
+  **❌ Não podem postar no grupo de "Avisos" oficiais.**
+
+- **👩‍🏫 Professores e Diretores**  
+  Têm acesso total à plataforma. Podem criar e compartilhar avisos oficiais, publicar mensagens em qualquer grupo (inclusive os de *Avisos*), divulgar oportunidades e interagir com todos os usuários.
+
+- **👩‍🍳 Gestor da Cantina**  
+  Responsável por atualizar o cardápio diariamente e publicar promoções. Também recebe sugestões e feedbacks dos alunos relacionados à sua área.  
+  Possui as **mesmas funcionalidades dos alunos**, com acesso exclusivo à área da cantina.
+
+---
+
+
 
 ## 🏗 Tecnologias Utilizadas
 
