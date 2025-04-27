@@ -110,7 +110,7 @@ Protótipo</a>
 ---
 ## Link do vídeo: <a "https://vimeo.com/1079173650?share=copy">
 
-Vídeo: 
+Vídeo: https://vimeo.com/1079173650
 
 ---
 **Desenvolvido por:**
