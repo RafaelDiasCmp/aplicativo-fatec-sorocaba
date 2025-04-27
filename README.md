@@ -108,7 +108,7 @@ Canva: <a href="https://www.canva.com/design/DAGjTevIkFM/KqzIxAOAh1b6EJMCWWi4Eg/
 Protótipo</a>
 
 ---
-## Link do vídeo: <a "https://vimeo.com/1079173650?share=copy">
+## Link do vídeo:
 
 Vídeo: https://vimeo.com/1079173650
 
