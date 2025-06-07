@@ -111,6 +111,7 @@ Protótipo</a>
 ## Link do vídeo:
 
 Vídeo: https://vimeo.com/1079173650
+
 ---
 ## Modelo entidade relacionamento
 
