@@ -111,7 +111,10 @@ Protótipo</a>
 ## Link do vídeo:
 
 Vídeo: https://vimeo.com/1079173650
+---
+## Modelo entidade relacionamento
 
+![MODELO ER](https://imgur.com/a/3B8sqcD)
 ---
 **Desenvolvido por:**
 - Drkaesp | Miguel Scomparin
