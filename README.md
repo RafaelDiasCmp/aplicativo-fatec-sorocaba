@@ -114,7 +114,7 @@ Vídeo: https://vimeo.com/1079173650
 ---
 ## Modelo entidade relacionamento
 
-![MODELO ER](https://imgur.com/a/3B8sqcD)
+![ER](app_fatec/9c112d56-fe1c-48fa-a9dc-d5e04e7b2f77.jpg)
 ---
 **Desenvolvido por:**
 - Drkaesp | Miguel Scomparin
