@@ -117,6 +117,11 @@ Vídeo: https://vimeo.com/1079173650
 
 ![ER](app_fatec/9c112d56-fe1c-48fa-a9dc-d5e04e7b2f77.jpg)
 ---
+## Modelo Conceitual (Classes)
+
+![uml](https://github.com/user-attachments/assets/d64cc7a0-96f1-41d0-8a5c-dc899f7e48ef)
+)
+---
 **Desenvolvido por:**
 - Drkaesp | Miguel Scomparin
 - NicolasGimenezAlcalde | Nicolas Gimenez
