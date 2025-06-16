@@ -120,7 +120,6 @@ Vídeo: https://vimeo.com/1079173650
 ## Modelo Conceitual (Classes)
 
 ![uml](https://github.com/user-attachments/assets/d64cc7a0-96f1-41d0-8a5c-dc899f7e48ef)
-)
 ---
 **Desenvolvido por:**
 - Drkaesp | Miguel Scomparin
