@@ -121,6 +121,8 @@ Vídeo: https://vimeo.com/1079173650
 
 ![uml](https://github.com/user-attachments/assets/14a3ea8f-45ff-427e-93e0-c55dfb79a283)
 
+## Documento Final
+![Proposta de Projeto Integrador](https://docs.google.com/document/d/15FEtSjMQnyHESLZ4uuhdf8xTexHDnWNbrymCuYu7TBY/edit?tab=t.0)
 ---
 **Desenvolvido por:**
 - Drkaesp | Miguel Scomparin
