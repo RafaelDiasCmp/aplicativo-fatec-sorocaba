@@ -115,11 +115,12 @@ Vídeo: https://vimeo.com/1079173650
 ---
 ## Modelo entidade relacionamento
 
-![ER](app_fatec/9c112d56-fe1c-48fa-a9dc-d5e04e7b2f77.jpg)
+![der](https://github.com/user-attachments/assets/b85ddd69-1cee-4d9a-af08-f1c611d702dd)
+
 ---
 ## Modelo Conceitual (Classes)
 
-![uml](https://github.com/user-attachments/assets/425d4b27-9487-43c5-883d-901bf6f61196)
+![umlfatecapp](https://github.com/user-attachments/assets/72bc57c9-e81f-43c1-adce-8ed4de0c419d)
 
 
 ## Documento Final
