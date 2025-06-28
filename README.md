@@ -120,8 +120,7 @@ Vídeo: https://vimeo.com/1079173650
 ---
 ## Modelo Conceitual (Classes)
 
-![umlfatecapp](https://github.com/user-attachments/assets/72bc57c9-e81f-43c1-adce-8ed4de0c419d)
-
+![UML](https://github.com/user-attachments/assets/fb93eee9-312c-4953-8117-789b06f56b64)
 
 ## Documento Final
 Google Docs: <a href="https://docs.google.com/document/d/15FEtSjMQnyHESLZ4uuhdf8xTexHDnWNbrymCuYu7TBY/edit?tab=t.0">Proposta de Projeto Integrador</a>
