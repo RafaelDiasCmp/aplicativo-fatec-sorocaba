@@ -110,7 +110,7 @@ Protótipo</a>
 ---
 ## Link do vídeo:
 
-Vídeo: https://vimeo.com/1079173650
+Vídeo: [https://vimeo.com/1079173650](https://www.canva.com/design/DAGl2ghL_IY/hf_ofOV39WjlN6kp-Mpcbg/watch?utm_content=DAGl2ghL_IY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha984021aba)
 
 ---
 ## Modelo entidade relacionamento
