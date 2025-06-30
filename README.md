@@ -110,7 +110,7 @@ Protótipo</a>
 ---
 ## Link do vídeo:
 
-Vídeo: <a href="(https://www.canva.com/design/DAGl2ghL_IY/hf_ofOV39WjlN6kp-Mpcbg/watch?utm_content=DAGl2ghL_IY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha984021aba)">Video</a>
+Vídeo: <a href="https://www.canva.com/design/DAGl2ghL_IY/hf_ofOV39WjlN6kp-Mpcbg/watch?utm_content=DAGl2ghL_IY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha984021aba">Video</a>
 
 ---
 ## Modelo entidade relacionamento
